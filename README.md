@@ -1,3 +1,6 @@
+# Added remote Support
+CAME TOP 432NA (In progress)
+
 # rc-switch
 [![Build Status](https://travis-ci.org/sui77/rc-switch.svg?branch=master)](https://travis-ci.org/sui77/rc-switch)
 
